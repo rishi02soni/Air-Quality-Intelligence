@@ -5,7 +5,7 @@
 AeroSense is an AI-powered web dashboard that provides real-time air quality insights, weather conditions, and AQI trend predictions for cities.
 It transforms raw pollution data into clear, actionable intelligence for better health awareness.
 
-Live Link:- air-quality-intelligence.vercel.app
+Live Link:- _air-quality-intelligence-updated.vercel.app_
 
 🎯 *What Problem It Solves*
 
